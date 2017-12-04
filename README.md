@@ -2,7 +2,7 @@
 
 R code to calculate bandwidth, signal-to-noise ratio and run model selection.
 
-Under Review in the journal Animal Behaviour as of December 4, 2017.
+Under review in the journal Animal Behaviour as of December 4, 2017.
 
 If used or adapted please cite:
 
