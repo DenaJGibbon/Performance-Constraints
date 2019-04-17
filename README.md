@@ -2,9 +2,6 @@
 
 R code to calculate bandwidth, signal-to-noise ratio and run model selection.
 
-Under review in the journal Animal Behaviour as of December 4, 2017.
-
 If used or adapted please cite:
 
-Clink, D. J., Charif, R, Crofoot, M. C., & Marshall, A. J. (in review). 
-Evidence of vocal performance constraints in a female non-human primate. Animal Behaviour.
+Clink, Dena J., Russell A. Charif, Margaret C. Crofoot, and Andrew J. Marshall. "Evidence for vocal performance constraints in a female nonhuman primate." Animal behaviour 141 (2018): 85-94.
